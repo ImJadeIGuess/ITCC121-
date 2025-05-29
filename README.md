@@ -22,16 +22,7 @@ Output: List of ordered items, total cost, and your own ticket number
 
 It simplifies the ordering process, cause some people prefer to take their own order, especially introverted ones.
 
-Flowchart
 
-Start Program  
-   ↓  
-Display Menu  
-   ↓  
-User selects item number and quantity → Store in order list  
-   ↓  
-Repeat until user types 'v' (view), 'f' (finish) and 'q' (quit)  
-   ↓  
 If 'f' → Generate ticket number, display receipt, total amount 
    ↓ 
 If 'q' → Exit program  
